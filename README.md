@@ -6,15 +6,15 @@ This project analyzes a hospital management dataset to extract meaningful insigh
 ### Objectives
 Analyze patient behavior and registration trends ?
 
-Identify high-demand medical specializations
+Identify high-demand medical specializations?
 
-Evaluate doctor workload and availability
+Evaluate doctor workload and availability?
 
-Perform revenue and billing analysis
+Perform revenue and billing analysis?
 
-Segment patients using RFM analysis
+Segment patients using RFM analysis?
 
-Detect outliers in treatment costs
+Detect outliers in treatment costs?
 
 
 ### Dataset Tables
