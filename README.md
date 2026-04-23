@@ -20,9 +20,8 @@ Detect outliers in treatment costs?
 ### Dataset Tables
 
 - [Appointments](#)
-- [Patients]
-
-Doctors
+- [Patients](#)
+- Doctors(#)
 
 Treatments
 
