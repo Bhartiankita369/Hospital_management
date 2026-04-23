@@ -1,1 +1,1 @@
-# Hospital_management
+# Hospital_management_Data_Analysis(SQL_Project)
