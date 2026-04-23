@@ -21,13 +21,12 @@ Detect outliers in treatment costs?
 
 - [Appointments](#)
 - [Patients](#)
-- Doctors(#)
-
-Treatments
-
-Billing
+- [Doctors](#)
+- [Treatments](#)
+- [Billing](#)
 
 ### Key Analysis Performed
+<details></details>
 Patient registration trends (monthly & recent activity)
 
 Appointment status distribution
