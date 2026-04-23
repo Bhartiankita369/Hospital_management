@@ -4,7 +4,7 @@
 This project analyzes a hospital management dataset to extract meaningful insights related to patients, doctors, appointments, treatments, and billing. The goal is to simulate real-world healthcare analytics using SQL.
 
 ### Objectives
-Analyze patient behavior and registration trends ?
+Analyze patient behavior and registration trends?
 
 Identify high-demand medical specializations?
 
@@ -19,8 +19,7 @@ Detect outliers in treatment costs?
 
 ### Dataset Tables
 
-Appointments
-
+Appointments**
 Patients
 
 Doctors
