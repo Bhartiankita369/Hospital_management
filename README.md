@@ -1,5 +1,5 @@
 # Hospital_management_Data_Analysis(SQL_Project)
-# Project Overview
+### Project Overview
 
 This project analyzes a hospital management dataset to extract meaningful insights related to patients, doctors, appointments, treatments, and billing. The goal is to simulate real-world healthcare analytics using SQL.
 
