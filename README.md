@@ -26,7 +26,7 @@ Detect outliers in treatment costs?
 - [Billing](#)
 
 ### Key Analysis Performed
-</details>
+<>
 Patient registration trends (monthly & recent activity)
 Appointment status distribution
 Doctor availability and specialization insights
@@ -39,7 +39,7 @@ Outlier detection in treatment costs
 
 Ranking doctors and patients based on activity
 
-
+ </details>
 ### Tools & Skills Used
 SQL (Joins, CTEs, Window Functions, Aggregations)
 
