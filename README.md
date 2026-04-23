@@ -29,15 +29,22 @@ Detect outliers in treatment costs?
 </details>
   
 Patient registration trends (monthly & recent activity)
+
 Appointment status distribution
+
 Doctor availability and specialization insights
+
 Revenue analysis and top contributing patients
+
 RFM Segmentation (Champions, Loyal, At Risk)
+
 Outlier detection in treatment costs
+
 Ranking doctors and patients based on activity
 
 </details>
-
+<Summary>
+  
 ### Tools & Skills Used
 SQL (Joins, CTEs, Window Functions, Aggregations)
 
