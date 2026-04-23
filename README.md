@@ -52,6 +52,7 @@ Data Analysis
 
 Business Insights
 
+<summary>
 ### Key Insights
 Identified most in-demand specializations based on appointment volume
 
