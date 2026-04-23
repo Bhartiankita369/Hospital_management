@@ -26,11 +26,9 @@ Detect outliers in treatment costs?
 - [Billing](#)
 
 ### Key Analysis Performed
-<details></details>
+</details>
 Patient registration trends (monthly & recent activity)
-
 Appointment status distribution
-
 Doctor availability and specialization insights
 
 Revenue analysis and top contributing patients
