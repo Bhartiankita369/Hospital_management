@@ -61,7 +61,8 @@ Insights Summary
 
 ###  Key Insights  
 
-####  Patient Trends  
+ ####  Patient Trends  
+ 
 - Patient registrations show an increasing trend in recent periods, indicating growing demand for healthcare services.  
 - Certain months have higher patient inflow, suggesting seasonal patterns.  
 - Majority of patients fall within the **18–45 age group**, representing the most active segment.  
