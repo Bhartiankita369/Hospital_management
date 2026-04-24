@@ -116,7 +116,8 @@ Insights Summary
 
 ##  Business Recommendations  
 
-#### 📈 Improve Resource Allocation  
+
+### 📈 Improve Resource Allocation  
 - Balance doctor workload by redistributing appointments.  
 - Optimize scheduling to better utilize underperforming doctors.  
 
