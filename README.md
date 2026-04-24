@@ -58,9 +58,9 @@ Dataset
 Insights Summary
 
 ##  Insights & Business Recommendations  
-
+---
 ###  Key Insights  
-
+---
  ####  Patient Trends  
  
 - Patient registrations show an increasing trend in recent periods, indicating growing demand for healthcare services.  
